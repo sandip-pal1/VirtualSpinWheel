@@ -45,9 +45,7 @@ Do you want to spin again? (yes/no): no
 Here’s a screenshot of the console output demo:  
 
 ![Console Output](Screenshot1.png)  
-![Console Output](Screenshot2.png)  
 
-*(Make sure both `Screenshot1.png` and `Screenshot2.png` are in the same repo folder)*
 
 ---
 
